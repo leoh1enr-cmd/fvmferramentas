@@ -1,0 +1,8 @@
+{
+  "name": "FVM Ferramentas - Floresta Verde Madeiras",
+  "description": "Sistema de gestão de ferramentas e contratos de locação da FVM Ferramentas (Floresta Verde Madeiras) com busca avançada, filtros por período e notificações push de devolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
